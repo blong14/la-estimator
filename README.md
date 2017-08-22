@@ -1,5 +1,9 @@
 # la-estimator
 
+## Pre-reqs
+- Install [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+- Install [Vagrant](https://www.vagrantup.com/downloads.html)
+
 ## Local Development Setup
 - Install composer dependencies: `composer install`
 - Install homestead: `php vendor/bin/homestead make`
